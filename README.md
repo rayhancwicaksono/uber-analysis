@@ -1,2 +1,1 @@
-# uber-analysis
-Explore my Uber Data Analysis repo! Discover insightful data visualizations showcasing my skills in analysis and insights extraction. Dive into charts and graphs for an informative experience. Your time is appreciated – thank you! :)
+Welcome to my Uber Data Analysis repository! Here, you'll find an in-depth analysis of Uber data for my portfolio. Through this project, I aim to showcase my data analysis and visualization skills and my ability to draw insights from data. I've included various charts and graphs to help illustrate my findings, and I hope you'll find my work informative and insightful. Thank you for taking the time to check out my portfolio! :)
